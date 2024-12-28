@@ -50,5 +50,9 @@
 	* Vendor Dependency: we need depend on vendor Capabilities.
 	* Integration Problems: Combining two PaaS products is impossible.
 	* Security Risk: Since we are storing data in some other place we need have faith on vendor.
-	
+## References
+	* Website -1: https://www.cloudflare.com/learning/serverless/glossary/platform-as-a-service-paas/
+ 	* Website -2: https://63sats.com/blog/platform-as-a-service-in-cloud-computing/
+  	* Website -3: https://blog.back4app.com/advantages-and-disadvantages-of-paas/
+   	* Youtube video: https://youtu.be/yYM35wgxeCM?t=564
 	
