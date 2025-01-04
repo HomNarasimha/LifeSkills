@@ -1,6 +1,6 @@
 # PaaS(Platform As A Service)
 * Paas is one of the cloud computing models, which stands for Platform as a service model.
-* PaaS is one of three service models in cloud computing, and the remaining two are IaaS(Infrastructure as a Service) and SaaS(Software as a Service).
+* PaaS is one of three service models in cloud computing, and the remaining two are Infrastructure as a Service (IaaS) and Software as a Service (SaaS).
 ![Models](https://www.cloudflare.com/img/learning/serverless/glossary/platform-as-a-service-paas/saas-paas-iaas-cloud-pyramid.svg)
 
 * PaaS provides an Operating system, Middleware/Database, and Runtime Service for developing, running, and managing applications.
