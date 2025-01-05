@@ -21,12 +21,19 @@ The Feynman Technique involves learning concepts by simplifying them into your o
 * Diffused thinking helps us to approach things differently based on our fresh perspective.
 
 ## 4. According to the video, what are the steps to take when approaching a new topic? Only mention the points.
-* Deconstruct the skill: Make things clear about what we need to achieve and what we need to focus.
+* Deconstruct the skill: Make things clear about what we need to achieve and what we need to focus on.
 * Learn enough to self-correct: Learn from different sources and learn enough to gain different insights and correct your views.
 * Remove practice barriers: Identify and eliminate distractions for your practice like Mobile, lack of focus, and social media.
 * Practice at least 20 hours: Try to practice at least 20 hours to perform to a certain level with constant learning cycles.
 
 ## 5. What are some of the actions you can take going forward to improve your learning process?
+* I will use the Feynman Technique to learn new concepts.
+* I will list the goals that I need to achieve and what are the areas I need to focus on.
+* I will apply the strategy of focusing on a task for a set period and incorporating relaxing activities.
+* I will practice consistently, rather than just once.
+* I will identify the distractions and eliminate them to improve my focus for better results.
+* I will explain concepts to others to identify the areas that I need to improve.
+  
 
   
 
