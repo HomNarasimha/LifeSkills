@@ -26,7 +26,7 @@ It is all about building an internal locus of control in our lives, solving prob
 ## 5. What are your ideas to take action and build Growth Mindset?
 * I will try to cultivate an Internal Locus of control.
 * Trusting the process rather than focusing on outcomes by celebrating efforts, not the results.
-* Always open for a fresh start whenever a setback or failure occurs.
-* Continuous self-evaluation about goals and the process I am following.
+* Always open for a fresh start after a setback or failure.
+* Continuous self-evaluation of goals and about the process.
 * Being courageous in every situation and ready to work hard for better outcomes.
 
