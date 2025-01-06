@@ -1,8 +1,7 @@
 # Grit and Growth Mindset
 
 ## 1. Paraphrase (summarize) the video in a few (1 or 2) lines. Use your own words.
-Performance does not depend on a person's IQ; it depends on effort. To become successful in any area, one needs to have grit, which is a combination of passion and perseverance, rather than having talent, 
-social intelligence, looks, or other qualities. Grit is like running a marathon toward achieving long-term goals, fueled by passion, energy, and continuous self-evaluation.
+Performance does not depend on a person's IQ; it depends on effort. To become successful in any area, one needs to have grit, which is a combination of passion and perseverance, rather than having talent, social intelligence, looks, or other qualities. Grit is like running a marathon toward achieving long-term goals, fueled by passion, energy, and continuous self-evaluation.
 Grit is not directly related to talent, and in some cases, it may even be inversely related to it. There is no specific way to build grit, but it can be developed through a growth mindset.
 
 ## 2. Paraphrase (summarize) the video in a few (1 or 2) lines in your own words.
@@ -25,3 +24,9 @@ It is all about building an internal locus of control in our lives, solving prob
 * Honor the struggle and cultivate a healthy mindset.
 
 ## 5. What are your ideas to take action and build Growth Mindset?
+I will try to cultivate an Internal Locus of control.
+Trusting the process rather than focusing on outcomes by celebrating efforts, not the results.
+Always open for a fresh start whenever a setback or failure occurs.
+Continuous self-evaluation about goals and the process I am following.
+Being courageous in every situation and ready to work hard for better outcomes.
+
