@@ -19,7 +19,9 @@ It is important to celebrate after each successful completion of a habit because
 * It enables us to tackle more difficult tasks.
 * It helps us build habits more easily and effectively.
 ## 4. In this video, what was the most interesting story or idea for you?
+The story of the Ship of Theseus is interesting because, over time, its old planks are replaced with new ones. Eventually, the ship looks completely new, even though it’s the same one.
 
+This is a great example of personal change. Just like the ship, we can change our identity by replacing old habits with new ones. Over time, these new habits help shape a new identity for us.
 ## 5. What is the book's perspective about Identity?
 * Identity is key to changing any habit or solving any system because it provides a new perspective on how we approach things.
 * Most people work from outcome to identity, but we should focus on working from identity to outcome.
