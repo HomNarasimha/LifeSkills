@@ -16,13 +16,21 @@ Insufficient amount of sleep will also cause genetic changes which can lead to m
 
 ## 5. What are some ideas that you can implement to sleep better?
 maintaining the regularity of the sleep cycles.
-Keeping the surroundings cool will help you to sleep quickly and deeply.
+Keeping your surroundings cool will help you sleep quickly and deeply.
 Making the environment good for sleeping like sleeping in a silent and clean place.
 By taking a sufficient amount of food before going to sleep.
 Doing some workouts to make the  body feel tired helps to sleep well and long.
-Avoiding the usage of mobile at least 15 minutes before going to sleep.
+Avoid using mobile phones for at least 15 minutes before going to sleep.
 
 
 
 ## 6. Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, only the points.
+Regular exercise will boost our energy and allow us to perform well every time.
+Exercise will allow us to focus and maintain our attention for a long period.
+Regular exercise will increase our long-term memory.
+Exercise is the most transformative thing that we can do to our brain.
+Exercise will have an immediate effect on our brains due to an increase in neurotransmitters.
+Exercise will improve reaction time and grasping power.
+Exercise will  make the Hippocampus and prefrontal context strong which is very important for uscognitive ability.
+
 ## 7. What are some steps you can take to exercise more?
